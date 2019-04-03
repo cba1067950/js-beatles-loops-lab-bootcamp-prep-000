@@ -16,6 +16,9 @@ function johnLennonFacts(factsArr){
     factsArr.splice(i,1,`${factsArr[i]}!!!`);
     i++;
   }
-  
   return factsArr;
+}
+
+function iLoveTheBeatles(num){
+  
 }
